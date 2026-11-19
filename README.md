@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import dat
+from datetime import date
 
 FILE = "travel_expenses.json"
 
